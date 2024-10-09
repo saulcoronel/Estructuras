@@ -1,0 +1,3 @@
+C:/Users/Alumnos/CLionProjects/skibidi/cmake-build-debug/CMakeFiles/skibidi.dir
+C:/Users/Alumnos/CLionProjects/skibidi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alumnos/CLionProjects/skibidi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
